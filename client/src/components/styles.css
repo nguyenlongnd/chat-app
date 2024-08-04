@@ -1,0 +1,18 @@
+.chatPageStyle {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.chatBarStyle {
+  flex: 1;
+  flex-basis: 150px;
+}
+.chatBodyMain {
+  flex: 5;
+}
+.myMessage {
+  background-color: aquamarine;
+}
+.otherMessage {
+  background-color: rgb(31, 107, 247);
+}
